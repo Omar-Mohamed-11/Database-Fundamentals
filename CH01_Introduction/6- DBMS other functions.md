@@ -14,4 +14,5 @@
 	- These built-in data mining functions, although sometimes limited in customization, help businesses, including small ones, to analyze their data effectively for purposes like customer segmentation and targeted marketing.
 
 
-![[Pasted image 20260806062204.png|700]]
+
+![Description](../IMAGES/functions.png)

@@ -1,6 +1,6 @@
 
-![[Pasted image 20260715232358.png|674]]
 
+![Description](../IMAGES/Pasted%20image%2020260715232358.png)
 
 - The main components of a Database System are the Database, DBMS (Database Management System), and the Application Program.
 - The end user accesses the database through a user interface (UI) that is part of the Application Program, but the user does not see the backend database directly.
