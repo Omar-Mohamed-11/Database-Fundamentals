@@ -6,7 +6,7 @@
 	- Used before databases were developed. In the file-based system, different departments in a company, like HR and accounts, manage their own data ==separately== using different programs (e.g., Word files for HR and Excel sheets for accounts).
 	- this leads to problems such as data **duplication**, **isolation**, **program dependence**, and **incompatible file formats**.
 	- For example, if an employee earns a certification, HR updates their records, but accounts may not get the update promptly, causing salary inaccuracies.
-	- To solve these problems he concept of a database was developed.
+	- To solve these problems the concept of a database was developed.
 
 - **Database** (Software): is a collection of related and interconnected data.
 - Database Management System (**DBMS**):

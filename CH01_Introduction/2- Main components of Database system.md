@@ -10,7 +10,7 @@
 - The database itself is divided into two parts:
 	1. Stored **database Definition** (Metadata).
 		- Metadata: is the set of information about my data, and the database definition stored all information.
-		  Ex: (Table name, Column name, Column data types, Constraints, Access Privileges,             Usernames, Passwords, User's Privileges, DB Objects structure, Log files)
+		  Ex: (Table name, Column name, Column data types, Constraints, Access Privileges, Usernames, Passwords, User's Privileges, DB Objects structure, Log files)
 	2. **Stored Database**: it is the data itself.
 
 - Database systems **advantages**:
