@@ -60,4 +60,4 @@
     - Maintain an efficient and consistent database design.
 
 ### Ex:
-![Mapping Relationship Types to Relational Schema](mapping_relationships.png)
+![Mapping Relationship Types to Relational Schema](../IMAGES/mapping_relationships.png)
