@@ -1,3 +1,5 @@
+# DBMS other functions
+
 - Database Management Systems (DBMS) have evolved from handling simple data types like numbers and characters to supporting more complex data such as images, audio, and videos, each with specialized storage and retrieval methods.
 
 - **Multimedia function**

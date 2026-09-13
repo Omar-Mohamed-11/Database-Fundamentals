@@ -1,3 +1,5 @@
+# Entity Relationship Modeling
+
 - Entity Relationship Modeling, or Entity Relationship Diagram (ERD), is a method used to create the Conceptual Design of a database.
 - This **ERD** identifies information required by the business by displaying the relevant entities and relationships between them.
 

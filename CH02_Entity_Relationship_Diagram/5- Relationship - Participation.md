@@ -1,3 +1,5 @@
+# Relationship - Participation
+
 - Participation Constraints & ERD Relationships:
     - Participation indicates the minimum number of relationship instances in which an entity instance must participate.
     - Total Participation (Mandatory / Must):

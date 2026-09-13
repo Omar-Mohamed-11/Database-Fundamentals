@@ -1,4 +1,4 @@
-
+# Main components of Database system
 
 ![Description](../IMAGES/Pasted%20image%2020260715232358.png)
 

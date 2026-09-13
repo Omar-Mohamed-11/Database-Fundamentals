@@ -1,3 +1,5 @@
+# Entities & Attributes
+
 - In developing the Conceptual Design of a database, a number of guideline questions can be used to identify and classify the entities, attributes, and keys needed in the database.
 
 - **Attribute Types:** Attributes can be classified based on how their values are represented or obtained.

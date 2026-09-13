@@ -1,3 +1,5 @@
+# Distributed Database Environment
+
 - A **Distributed Database Environment** is a collection of databases that are physically stored at different locations but logically work together as one database.
 - **Distributed Database** supports high availability of Database.
 

@@ -1,3 +1,5 @@
+# Relationship - degree
+
 ## Relationships in Database Design
 
 - A **Relationship** represents a connection between **two or more entities** in a database.

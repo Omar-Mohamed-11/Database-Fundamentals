@@ -1,3 +1,5 @@
+# Mappings
+
 - **Mappings** are the process that transforms requests and results between different schema levels in a database system.
 
 ![mapping](../IMAGES/Pasted%20image%2020260806060032.png)
