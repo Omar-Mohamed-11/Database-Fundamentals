@@ -1,4 +1,4 @@
-# Data Control Language (DCL)
+# SQL - Data Control Language (DCL)
 
 - **Data Control Language (DCL):**
     - **DCL** is a part of **SQL** that controls access to database objects.
