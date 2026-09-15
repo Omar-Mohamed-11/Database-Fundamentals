@@ -33,7 +33,7 @@
         - For example, if an Employee can have multiple phone numbers:
             - `Employee(EmployeeID, Name, Salary)`
             - `EmployeePhone(EmployeeID, PhoneNumber)`
-            - `EmployeeID` in `EmployeePhone` is a Foreign Key that refers to `EmployeeID` in the Employee table.
+            - `EmployeeID` in `EmployeePhone` is a Foreign Key that refers to `EmployeeID` in the Employee table, and we take two columns together as a primary key of the new table.
 
     - **Derived Attribute:**
         - Usually calculated dynamically instead of being stored in the table.
