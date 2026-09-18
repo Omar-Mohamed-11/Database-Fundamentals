@@ -68,7 +68,7 @@
         - Is already in 2NF.
         - Does not contain Transitive Dependencies.
     
-	- ![Norms Review|595](../IMAGES/norms_review.png)
+	- ![Norms Review|642](../IMAGES/norms_review.png)
 
 - **Normalization up to 3NF:**
     - Normalization up to 3NF is usually sufficient for a Database Design.
