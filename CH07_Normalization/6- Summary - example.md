@@ -125,4 +125,4 @@
         - A well-structured Database Design with reduced Redundancy and improved Data Integrity.
 
 ### EX:
-![Example for 3 normal forms of Normalization](../IMAGES/normalization_example.png)
+![Example for 3 normal forms of Normalization](../IMAGES/normalization_example2.png)
