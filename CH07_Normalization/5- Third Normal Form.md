@@ -67,6 +67,8 @@
     - **Third Normal Form (3NF):**
         - Is already in 2NF.
         - Does not contain Transitive Dependencies.
+    
+	- ![[norms_review.png|632]]
 
 - **Normalization up to 3NF:**
     - Normalization up to 3NF is usually sufficient for a Database Design.
